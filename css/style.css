@@ -103,6 +103,21 @@ a:hover {
 
 /* 2. ========== Bootstrap Class Overwrite Start ==========*/
 
+#searchbtn {
+  color: #fff;
+  background-color: #000;
+}
+
+#searchbtn:hover {
+  color: #ef7c00;
+}
+
+#jewellerybanner {
+  margin-left: -11%;
+  width: 122%;
+  margin-top: -50px;
+}
+
 /* 2.1. ========== Home Navigation Start ==========*/
 .navbar-inverse {
   border: none;
